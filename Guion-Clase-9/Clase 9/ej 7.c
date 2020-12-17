@@ -14,7 +14,8 @@ int main()
 			z=z+1;
 			}
 		printf("\n El vendio un total de %d unidades ",acu);
-					if (acu>vjr){
+					if (acu>vjr)
+					{
 							vjr=acu;
 							mjvr=i;
 								}
